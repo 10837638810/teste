@@ -1,9 +1,9 @@
 # App de Exemplo Sgt Ivan
 
-  ###Classes, Activities e Layouts...
+  ### Classes, Activities e Layouts...
   
  ## Mudança de Activity;
   
-  #Layout de Splash;
+  # Layout de Splash;
   
-  ####Validação de Login;
+  #### Validação de Login;
